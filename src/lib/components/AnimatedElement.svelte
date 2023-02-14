@@ -22,7 +22,6 @@
 
 <style>
     .box {
-        width: 500px;
         padding: 25px;
     }
 </style>

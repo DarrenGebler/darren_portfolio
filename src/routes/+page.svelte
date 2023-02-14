@@ -49,7 +49,7 @@
     }
 
     p {
-        height: 10px;
+        min-height: 10px;
         color: #6887AB;
     }
 
